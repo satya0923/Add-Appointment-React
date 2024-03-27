@@ -1,0 +1,36 @@
+.appointment-item {
+    border: 2px solid #b5b7c4;
+    padding: 20px;
+    border-radius: 10px;
+    list-style: none;
+    margin-bottom: 20px;
+    margin-right: 20px;
+  }
+  
+  .item-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .titleInput {
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 20px;
+  }
+  
+  .star-btn {
+    border: none;
+    background-color: transparent;
+  }
+  
+  .star-icon {
+    height: 30px;
+  }
+  
+  .date {
+    font-size: 20px;
+    color: #b5b7c4;
+    font-weight: 500;
+  }
+  
